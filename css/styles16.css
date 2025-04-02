@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FClub_de_Regatas_Vasco_da_Gama&psig=AOvVaw0J7GxrXCH122OOBc8E5ZOA&ust=1742318170066000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDp7Y7PkYwDFQAAAAAdAAAAABAE');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+}

@@ -1,0 +1,22 @@
+h1 {
+    color: #3572EF;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    margin: 10px 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 40px;
+}
+
+li {
+    font-size: 14px;
+    color: #050C9C;
+    margin: 5px 0;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Width and Spacing Example</title>
+    <style>
+        table {
+            width: 80%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+        th {
+            text-align: left;
+        }
+        td:nth-child(2) {
+            text-align: left
+        }
+    </style>
+</head>
+<body>
+    <h1>Restaurant Menu</h1>
+    <table cellspacing="10">
+        <tr>
+            <th>Dish</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Spaghetti</td>
+            <td>$12.99</td>
+        </tr>
+        <tr>
+            <td>Pizza</td>
+            <td>$15.99</td>
+        </tr>
+        <tr>
+            <td>Salad</td>
+            <td>$7.99</td>
+        </tr>
+        <tr>
+            <td>Burger</td>
+            <td>$9.99</td>
+        </tr>
+        <tr>
+            <td>Steak</td>
+            <td>$22.99</td>
+        </tr>
+    </table>
+</body>
+</html>
